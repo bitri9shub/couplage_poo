@@ -6,6 +6,7 @@ public class Moteur implements IMoteur {
     public void setPuissance(double puissance){
         this.puissance = puissance;
     }
+    @Override
     public double getPuissanceTotale(){
         return this.puissance;
     }
