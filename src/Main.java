@@ -22,5 +22,5 @@ void main() {
     // Conclusion:
     // couplage fort: porter des modifications dans la structure des classes
     // couplage faible: porter des modifications dans l'instanciation en créant
-    // de nouvelles classes
+    // de nouvelles classes qui implémentent une intérface
 }
